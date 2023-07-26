@@ -97,7 +97,7 @@
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
   --button-background: #2a3439;
-  --button-background-hover: #354249;
+  --button-background-hover: #fff;
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
